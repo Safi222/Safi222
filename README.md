@@ -4,7 +4,11 @@
 
 ![A software developer, ML and data science enthusiast](https://github.com/Safi222/Safi222/blob/main/SafiaBanner.png?raw=true)
 
-Hi, I'm Safia, a software developer with a deep passion for Machine Learning and Data Science. With a solid foundation in software development, I’m constantly exploring new tools, algorithms, and techniques to push the boundaries of innovation. Driven by curiosity and a commitment to continuous learning, I’m dedicated to making a meaningful impact in the ever-evolving world of AI and data-driven solutions.
+Hi, I'm Safia, a software developer with a deep passion for Machine Learning and Data Science.  
+With a solid foundation in software development, I’m constantly exploring new tools, algorithms,  
+and techniques to push the boundaries of innovation. Driven by curiosity and a commitment to  
+continuous learning, I’m dedicated to making a meaningful impact in the ever-evolving world of  
+AI and data-driven solutions.
 
 **Skills:**  
 PYTHON / REACT / VITE / JS / PYTORCH
