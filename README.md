@@ -9,7 +9,7 @@ Data Science.
 With a solid foundation in software development, I’m constantly exploring new tools,
 algorithms,  and techniques to push the boundaries of innovation.
 Driven by curiosity and a commitment to continuous learning,
-I’m dedicated to making a meaningful impact in the ever-evolving 
+I’m dedicated to making a meaningful impact in the ever-evolving
 world of AI and data-driven solutions.
 
 **Skills:**  
