@@ -19,4 +19,5 @@ C / PYTHON / REACT / VITE / JS / PYTORCH
 - 👯 I’m looking to collaborate on memorization research of LLMs  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/safia-n-aballah)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safi222)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Safia's Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Safi222&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
